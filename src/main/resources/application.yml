@@ -1,0 +1,36 @@
+#Name: Ayush
+
+#array
+#Names:
+#    -Ayush
+#    -Naimish
+#    -Ashish
+#    -Neeta  
+
+#sign: "#"
+
+#object
+#book:
+#    author: author_name
+#    publisher: publisher_name
+    
+#boolean: True
+
+#another_boolean: False
+
+#String: Hello Java
+#another_string: "Hello:Java"
+
+contact:
+    email: help@gmail.com 
+    number: 80801
+    
+---
+
+spring:
+    profile: Dev
+    
+contact:
+    email: help-dev@gmail.com 
+    number: 79050
+    
